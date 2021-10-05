@@ -1,0 +1,4 @@
+/* customize the expand collapse icon on mobile */
+.mapme-theme__toolbar-collapse-content-button-container {
+transform: scale(1.5)  
+} 
